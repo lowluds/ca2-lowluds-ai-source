@@ -1,0 +1,8 @@
+[submodule "app"]
+	path = app
+	url = ../../ca2/app
+	branch = main
+[submodule "ca2-lowluds-ai"]
+	path = ca2-lowluds-ai
+	url = ../ca2-lowluds-ai
+	branch = main
